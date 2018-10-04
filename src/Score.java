@@ -90,6 +90,7 @@ public class Score
 		}
 		
 		System.out.println("\n**********************************************");
+		System.out.println("---------------MATCH DETAILS------------------");
 		System.out.println("Total Score for the match is "+Overs.totalScore);
 		System.out.println("**********************************************");
 	}
